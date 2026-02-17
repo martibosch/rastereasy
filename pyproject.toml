@@ -20,7 +20,7 @@ dependencies = [
     "scikit-learn",
     "matplotlib",
     "ipywidgets",
-    "PyQt5",
+    # "PyQt5",
     "ipympl"
 ]
 [project.urls]

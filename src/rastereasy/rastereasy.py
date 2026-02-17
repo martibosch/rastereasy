@@ -20,7 +20,7 @@ try:
         os.system('pip install ipympl')
 except ImportError:
     IN_COLAB = False
-    matplotlib.use('Qt5Agg') #  'Qt5Agg' 'TkAgg'
+    # matplotlib.use('Qt5Agg') #  'Qt5Agg' 'TkAgg'
 end_collect = False  # Flag used for collecting spectra
 
 # Standard library imports
